@@ -16,3 +16,8 @@ users = ["kasuzhi", "yurika", "punimaru", "nyamada"]
 users.each do |user|
   puts user
 end
+
+puts 4 + 3
+puts 4 - 3
+puts 10 / 2
+puts 3 * 8
