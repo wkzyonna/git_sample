@@ -11,5 +11,8 @@ puts <<~TEXT
 
 TEXT
 
+users = ["kasuzhi", "yurika", "punimaru", "nyamada"]
 
-
+users.each do |user|
+  puts user
+end
